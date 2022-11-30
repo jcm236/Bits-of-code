@@ -1,0 +1,8 @@
+404:Not Found
+104:lool
+69 :42,069 lol
+401:Unauthorized
+502:Bad Gateway
+503:Service Unavailable
+000:Error details
+314:15926535897
