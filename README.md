@@ -13,3 +13,4 @@ Python:
   Vignerre Cribber (.py) -> A modified (slightly less user friendly) vignerre decrypter that will **check for a crib** that has been **encrypted** with one of a the **given keywords** in an **already encrypted message** to **check** if the **potential keyword is correct**.
  
   Ceaser Cipher (.py) -> A (hopefully) very **user friendly ceaser cipher encrypter and decrypted** with the option of **brute force decryption**.
+  Affine Cipher (.py) -> A currently **manual Affine cipher encrypter and decrypter**, however it is **currently** just **set to brute force decrypting** for the **given message**.
