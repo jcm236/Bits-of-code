@@ -16,6 +16,13 @@ Python:
 
   Affine Cipher (.py) -> A currently **manual Affine cipher encrypter and decrypter**, however it is **currently** just **set to brute force decrypting** for the **given message**.
 
+  Error Gen
+
+  (\Python\Error Gen)
+      Error Genorator (.py) -> Some fun code i made for **generating and reading error messages**
+
+      Error (.txt) -> the **text file** the **error generator reads from and writes to**
+
   Abandoned (Projects that will probably never be revisited):
 
         (\Python\Abandoned)
