@@ -6,11 +6,7 @@ In here i shall put a description of all my code.
 Python:
 (\Python)
   
-  Abandoned (Projects that will probably never be revisited):
-
-        (\Python\Abandoned)
-
-        Smart Calculator (.py) -> A calculator that would be able to work like a normal one but simplify algebra as well. (so it would do: 3x + 4x -2y **= 7x - 2y**)
+  
   
   Vignerre (.py) -> A user friendly Vignerre cipher encoder and decoder using known keywords.
 
@@ -19,3 +15,9 @@ Python:
   Ceaser Cipher (.py) -> A (hopefully) very **user friendly ceaser cipher encrypter and decrypted** with the option of **brute force decryption**.
 
   Affine Cipher (.py) -> A currently **manual Affine cipher encrypter and decrypter**, however it is **currently** just **set to brute force decrypting** for the **given message**.
+
+  Abandoned (Projects that will probably never be revisited):
+
+        (\Python\Abandoned)
+
+        Smart Calculator (.py) -> A calculator that would be able to work like a normal one but simplify algebra as well. (so it would do: 3x + 4x -2y **= 7x - 2y**)
