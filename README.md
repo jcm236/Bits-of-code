@@ -4,7 +4,7 @@ my random python code
 In here i shall put a description of all my code.
 
 
-<span style=“color:red;”>Python:</span>
+`#00aaff`Python:
 (**/Python**)
   
   
