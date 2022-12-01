@@ -4,8 +4,7 @@ my random python code
 In here i shall put a description of all my code.
 
 
-$\color{lightblue}{\textrm{hh}}$
-Python:
+$\color{blue}{\textrm{Python:}}$
 (**/Python**)
   
   
