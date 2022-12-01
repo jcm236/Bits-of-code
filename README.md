@@ -22,6 +22,7 @@ In here i shall put a description of all my code.
 
 
 
+
    Error Gen:
 
   (**/Python/Error Gen**)
@@ -31,7 +32,8 @@ In here i shall put a description of all my code.
    Error (.txt) -> the **text file** the **error generator reads** from and **writes** to
   
 
-  
+
+
   Abandoned (Projects that will probably never be revisited):
   
   (**/Python/Abandoned**)
