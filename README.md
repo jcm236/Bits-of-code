@@ -19,9 +19,11 @@ In here i shall put a description of all my code.
  Affine Cipher (.py) -> A currently **manual Affine cipher encrypter and decrypter**, however it is **currently** just **set to brute force decrypting** for the **given message**.
 
  RSA (.py) -> A **kindof user friendly RSA encrypter and decrypter**. (RSA is the **prime number and mod numbers cipher** that is pretty much **one way**) https://en.wikipedia.org/wiki/RSA_(cryptosystem)
-
-\n
-
+  
+  
+  
+  
+  
    Error Gen:
 
   (**/Python/Error Gen**)
