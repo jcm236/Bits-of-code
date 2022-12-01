@@ -3,11 +3,13 @@ my random python code
 
 In here i shall put a description of all my code.
 
-Python:
+<span style=“color:blue;”>
+Python:</span>
 (**/Python**)
   
   
-  
+
+
   Vignerre (.py) -> A user friendly Vignerre cipher encoder and decoder using known keywords.
 
   Vignerre Cribber (.py) -> A modified (slightly less user friendly) vignerre decrypter that will **check for a crib** that has been **encrypted** with one of a the **given keywords** in an **already encrypted message** to **check** if the **potential keyword is correct**.
