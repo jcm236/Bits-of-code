@@ -21,7 +21,6 @@ In here i shall put a description of all my code.
  RSA (.py) -> A **kindof user friendly RSA encrypter and decrypter**. (RSA is the **prime number and mod numbers cipher** that is pretty much **one way**) https://en.wikipedia.org/wiki/RSA_(cryptosystem)
 \
 \
-
    Error Gen:
 
   (**/Python/Error Gen**)
