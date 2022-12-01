@@ -21,12 +21,12 @@ Python:
   Error Gen
 
   (/Python/Error Gen)
-    Error Genorator (.py) -> Some fun code i made for **generating and reading error messages**
+  Error Genorator (.py) -> Some fun code i made for **generating and reading error messages**
 
-    Error (.txt) -> the **text file** the **error generator reads** from and **writes** to
+  Error (.txt) -> the **text file** the **error generator reads** from and **writes** to
 
   Abandoned (Projects that will probably never be revisited):
 
-    (/Python/Abandoned)
+  (/Python/Abandoned)
 
-    Smart Calculator (.py) -> A calculator that would be able to work like a normal one but simplify algebra as well. (so it would do: 3x + 4x -2y **= 7x - 2y**)
+  Smart Calculator (.py) -> A calculator that would be able to work like a normal one but simplify algebra as well. (so it would do: 3x + 4x -2y **= 7x - 2y**)
