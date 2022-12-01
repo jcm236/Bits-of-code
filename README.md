@@ -4,7 +4,7 @@ my random python code
 In here i shall put a description of all my code.
 
 
-`#00aaff`Python:
+$${\color{blue}Blue}$$Python:
 (**/Python**)
   
   
