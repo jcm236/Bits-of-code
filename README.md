@@ -24,9 +24,9 @@ In here i shall put a description of all my code.
 
   (**/Python/Error Gen**)
   
-     Error Genorator (.py) -> Some fun code i made for **generating and reading error messages**
+  Error Genorator (.py) -> Some fun code i made for **generating and reading error messages**
 
-     Error (.txt) -> the **text file** the **error generator reads** from and **writes** to
+  Error (.txt) -> the **text file** the **error generator reads** from and **writes** to
   
   Abandoned (Projects that will probably never be revisited):
   
